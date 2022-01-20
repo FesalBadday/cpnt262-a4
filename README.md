@@ -1,4 +1,4 @@
-# CPNT 262 Assignment 4 - Node command line app
+# Node command line app
 
 
 ## Information 
